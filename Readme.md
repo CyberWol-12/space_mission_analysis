@@ -7,7 +7,7 @@
 
 
 
-## 🛰️ What You Will Learn from This Project
+##  What You Will Learn from This Project
 *By exploring this notebook, you will see a complete Data Science pipeline in action. Here is what we cover:*
 
 * **Data Engineering:** Cleaning complex date formats and handling multi-currency financial data.
@@ -17,7 +17,7 @@
 
 
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 * **Language:** Python 3.x
 * **Data Wrangling:** `Pandas`, `NumPy`
 * **Data Visualization:** `Matplotlib`, `Seaborn`, `Plotly Express` (Interactive)
