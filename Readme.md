@@ -39,17 +39,17 @@ I analyzed the intense rivalry between the two superpowers up to 1991. The data 
 !['Distribution of Mission Costs (Price in USD Millions)](image0.png)
 
 ** (b) Total Mission Share: USA vs USSR (Including Kazakhstan)**
-![USA vs USSR Pie Chart](image7.png)
+!['Global Distribution of Space Missions (1957 - 2026)'](image1.png)
 
 ### 3. Economic Trends (Average Price of Space)
 Using a time-series trend, I identified how the **Average Price of Rocket Launches** has evolved. From the expensive Shuttle era to the modern cost-reduction driven by private players like SpaceX, space is becoming more accessible.
-![Average Price Trend](image3.png)
+!['Month-on-Month Space Mission Launches (1957 - Present)'](image2.png)
 
 ### 4. Mission Reliability & Success Rates
 By calculating the **Failure Rate (%)** over time, the project reveals the technological "Learning Curve." Failure probability was nearly 40% in the late 1950s but has dropped to under 5% in the modern era.
 
 ** (a) Percentage of Mission Failures Over Time**
-![Failure Rate Percentage Chart](image8.png)
+!['Average Price of Rocket Launches Over Time (1957 - Present)'](image3.png)
 
 ** (b) Distribution of Mission Status (Success vs. Failure)**
 ![Mission Status Distribution](image4.png)
