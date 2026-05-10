@@ -54,7 +54,19 @@ By calculating the **Failure Rate (%)** over time, the project reveals the techn
 ** (b) Distribution of Mission Status (Success vs. Failure)**
 ![Mission Status Distribution](image4.png)
 
+## ** Strategic Dominance & Global Leadership**
 
+### **1. Dominant Organisations (The Era of Giants)**
+Maine analyze kiya ki har saal kis organisation ne space par raaj kiya. Data se pata chala ki space history do bade hisson mein banti hui hai:
+* **1970s - 1980s:** Ye poora daur **RVSN USSR** (Strategic Rocket Forces) ke naam raha. Unka launch volume itna zyada tha ki koi aur agency unke aas-paas bhi nahi thi.
+* **2018 - 2020:** Yahan se dominance shift hui. **CASC (China)** aur **SpaceX** ne purani sarkari agencies ko piche chhodkar naye record banaye.
+![Dominant Organisation Year-on-Year](image9.png)
+
+### **2. Leading Countries: Total vs. Success**
+Kya sabse zyada launch karne wala desh hi hamesha winner hota hai? Maine **Total Launches** aur **Successful Launches** ko compare kiya:
+* **Quantity Leader:** USSR ne volume mein lead kiya (1960s-1990).
+* **Quality Leader:** Jab humne sirf "Success" filter kiya, toh kayi saalon mein **USA** ne USSR ko piche chhod diya, jo ye dikhata hai ki unka success rate behtar tha.
+![Leading Country Analysis](image10.png)
 
 ##  Data Cleaning & Preprocessing
 To ensure an accurate analysis, several critical data cleaning steps were performed:
