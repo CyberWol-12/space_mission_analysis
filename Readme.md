@@ -28,9 +28,9 @@
 
 ## Key Insights & Visualizations
 
-### 1. The Global Launch Footprint (Choropleth Map)
+### 1. Total number of space mission launched by organisation
 I utilized **Plotly Express** to create an interactive map identifying "Launch Intensity" by country. While the USA and Russia lead historically, the data highlights the rapid emergence of China and India as global space powers.
-![Global Launch Intensity Map](image.png)
+![Total number of space mission launched by organisation](image.png)
 
 ### 2. The Cold War Space Race (USA vs USSR)
 I analyzed the intense rivalry between the two superpowers up to 1991. The data shows that while the USA achieved iconic milestones like the Moon landing, the USSR maintained a massive, consistent launch volume throughout the 70s and 80s.
