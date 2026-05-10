@@ -1,11 +1,11 @@
-# 🚀 Space Mission Analytics: A Journey Through the Stars (1957 - Present)
+#  Space Mission Analytics: A Journey Through the Stars (1957 - Present)
 
 ## 👋 Welcome to the Project!
 **Hello! I am Divya, thankyou for visiting here😊. This repository contains my deep-dive analysis into the history of global space exploration, covering every recorded mission from the launch of Sputnik in 1957 to the modern era of commercial spaceflight.**
 
 **The goal of this project is to decode the patterns of the "Final Frontier." By analyzing nearly 70 years of launch data, I aim to provide an evidence-based perspective on how technology, economics, and geopolitics have shaped our journey into space.**
 
----
+
 
 ## 🛰️ What You Will Learn from This Project
 *By exploring this notebook, you will see a complete Data Science pipeline in action. Here is what we cover:*
@@ -15,7 +15,7 @@
 * **Economic Analysis:** Visualizing the shifting costs of reaching orbit over decades.
 * **Success Metrics:** Analyzing mission reliability and the "learning curve" of rocket science.
 
----
+
 
 ## 🛠️ Tech Stack & Skills
 * **Language:** Python 3.x
@@ -24,9 +24,9 @@
 * **Time-Series Analysis:** Year-on-Year (YoY) Growth & Trend Modeling
 * **Geospatial Analysis:** Interactive Choropleth Mapping for global launch density
 
----
 
-## 📊 Key Insights & Visualizations
+
+## Key Insights & Visualizations
 
 ### 1. The Global Launch Footprint (Choropleth Map)
 I utilized **Plotly Express** to create an interactive map identifying "Launch Intensity" by country. While the USA and Russia lead historically, the data highlights the rapid emergence of China and India as global space powers.
@@ -54,22 +54,22 @@ By calculating the **Failure Rate (%)** over time, the project reveals the techn
 ** (b) Distribution of Mission Status (Success vs. Failure)**
 ![Mission Status Distribution](image4.png)
 
----
 
-## 🧹 Data Cleaning & Preprocessing
+
+##  Data Cleaning & Preprocessing
 To ensure an accurate analysis, several critical data cleaning steps were performed:
 * **ISO Country Mapping:** Extracted country names from the "Location" field and standardized them for mapping (grouping USSR/Kazakhstan/Russia correctly).
 * **Financial Formatting:** Cleaned the "Price" column by removing commas and currency symbols, converting them into numeric floats for analysis.
 * **Datetime Conversion:** Converted mixed date formats to `datetime64[ns]` to extract Years and Months for time-series trend modeling.
 
----
 
-## 🏁 Final Reflections & Conclusions
+
+##  Final Reflections & Conclusions
 * **USSR's Volume:** Historically, the USSR (and its legacy sites in Kazakhstan) held the record for the highest frequency of launches for several decades.
 * **Technological Maturity:** Rocket science has become exponentially more reliable, with failure rates hitting historic lows in the 21st century.
 * **The Commercial Surge:** Post-2010 data shows a massive spike in activity, reflecting the rise of private organizations and global satellite constellations.
 
----
+
 
 ## AUTHOR:--
 **DIVYA UPADHYAY 😊😊**
