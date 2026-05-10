@@ -36,7 +36,7 @@ I utilized **Plotly Express** to create an interactive map identifying "Launch I
 I analyzed the intense rivalry between the two superpowers up to 1991. The data shows that while the USA achieved iconic milestones like the Moon landing, the USSR maintained a massive, consistent launch volume throughout the 70s and 80s.
 
 ** (a) Year-on-Year Superpower Comparison (USA vs USSR)**
-![USA vs USSR Launch Trend](image2.png)
+!['Distribution of Mission Costs (Price in USD Millions)](image0.png)
 
 ** (b) Total Mission Share: USA vs USSR (Including Kazakhstan)**
 ![USA vs USSR Pie Chart](image7.png)
