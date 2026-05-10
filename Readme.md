@@ -35,29 +35,30 @@ I utilized **Plotly Express** to create an interactive map identifying "Launch I
 ### 2. The Cold War Space Race (USA vs USSR)
 I analyzed the intense rivalry between the two superpowers up to 1991. The data shows that while the USA achieved iconic milestones like the Moon landing, the USSR maintained a massive, consistent launch volume throughout the 70s and 80s.
 
-** (a) Year-on-Year Superpower Comparison (USA vs USSR)**
+** (a) Distribution of Mission Costs (Price in USD Millions)**
 !['Distribution of Mission Costs (Price in USD Millions)](image0.png)
 
-** (b) Total Mission Share: USA vs USSR (Including Kazakhstan)**
+** (b) Global Distribution of Space Missions (1957 - 2026)**
 !['Global Distribution of Space Missions (1957 - 2026)'](image1.png)
 
-### 3. Economic Trends (Average Price of Space)
+### 3. Economic Trends (Month-on-Month Space Mission Launches (1957 - Present))
 Using a time-series trend, I identified how the **Average Price of Rocket Launches** has evolved. From the expensive Shuttle era to the modern cost-reduction driven by private players like SpaceX, space is becoming more accessible.
+**Month-on-Month Space Mission Launches (1957 - Present)**
 !['Month-on-Month Space Mission Launches (1957 - Present)'](image2.png)
 
 ### 4. Mission Reliability & Success Rates
 By calculating the **Failure Rate (%)** over time, the project reveals the technological "Learning Curve." Failure probability was nearly 40% in the late 1950s but has dropped to under 5% in the modern era.
 
-** (a) Percentage of Mission Failures Over Time**
+** (a) Average Price of Rocket Launches Over Time (1957 - Present)**
 !['Average Price of Rocket Launches Over Time (1957 - Present)'](image3.png)
 
-** (b) Distribution of Mission Status (Success vs. Failure)**
+** (b) Space Launch Trends: Top 10 Organizations Over Time**
 ![Space Launch Trends: Top 10 Organizations Over Time](image4.png)
 
 ### 5. Total numbrer of launches of the (USA vs USSR)
 I analyzed total number of launches between usa ans usse . The data shows that while the USA achieved iconic milestones like the Moon landing, the USSR maintained a massive, consistent launch volume throughout the 70s and 80s.
 
-** (a) Year-on-Year Superpower Comparison (USA vs USSR)**
+** (a) Total Mission Launches: USA vs USSR (including Kazakhstan)
 ![Total Mission Launches: USA vs USSR (including Kazakhstan)](image5.png)
 
 
