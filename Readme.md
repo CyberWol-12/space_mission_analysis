@@ -18,7 +18,7 @@
 
 
 ## Tech Stack & Skills
-* **Language:** Python 3.x
+* **Language:** Python 
 * **Data Wrangling:** `Pandas`, `NumPy`
 * **Data Visualization:** `Matplotlib`, `Seaborn`, `Plotly Express` (Interactive)
 * **Time-Series Analysis:** Year-on-Year (YoY) Growth & Trend Modeling
