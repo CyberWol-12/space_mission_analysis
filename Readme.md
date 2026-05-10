@@ -60,8 +60,6 @@ I analyzed total number of launches between usa ans usse . The data shows that w
 ** (a) Year-on-Year Superpower Comparison (USA vs USSR)**
 ![Total Mission Launches: USA vs USSR (including Kazakhstan)](image5.png)
 
-** (b) Total Mission Share: USA vs USSR (Including Kazakhstan)**
-!['Global Distribution of Space Missions (1957 - 2026)'](image1.png)
 
 ## ** Strategic Dominance & Global Leadership**
 
