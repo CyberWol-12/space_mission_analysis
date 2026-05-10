@@ -52,7 +52,16 @@ By calculating the **Failure Rate (%)** over time, the project reveals the techn
 !['Average Price of Rocket Launches Over Time (1957 - Present)'](image3.png)
 
 ** (b) Distribution of Mission Status (Success vs. Failure)**
-![Mission Status Distribution](image4.png)
+![Space Launch Trends: Top 10 Organizations Over Time](image4.png)
+
+### 5. Total numbrer of launches of the (USA vs USSR)
+I analyzed total number of launches between usa ans usse . The data shows that while the USA achieved iconic milestones like the Moon landing, the USSR maintained a massive, consistent launch volume throughout the 70s and 80s.
+
+** (a) Year-on-Year Superpower Comparison (USA vs USSR)**
+![Total Mission Launches: USA vs USSR (including Kazakhstan)](image5.png)
+
+** (b) Total Mission Share: USA vs USSR (Including Kazakhstan)**
+!['Global Distribution of Space Missions (1957 - 2026)'](image1.png)
 
 ## ** Strategic Dominance & Global Leadership**
 
